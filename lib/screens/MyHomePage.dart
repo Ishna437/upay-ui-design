@@ -305,7 +305,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                   Expanded(
                     child: Container(
-                      color: const Color.fromARGB(255, 63, 33, 126),
+                      color: const Color.fromARGB(255, 35, 16, 77),
                       // width: 130,
                       // height: 60,
                       child: Image.asset(
