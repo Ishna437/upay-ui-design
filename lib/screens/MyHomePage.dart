@@ -151,7 +151,8 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
                 const Text(
                   'LKR 440.00',
-                  style: TextStyle(color: Colors.white, fontSize: 16),
+                  style: TextStyle(
+                      color: Color.fromARGB(255, 219, 212, 212), fontSize: 16),
                 ),
               ],
             ),
