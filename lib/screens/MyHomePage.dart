@@ -109,7 +109,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: Image.asset(
                 'assets/images/transaction-history.png',
                 width: 28,
-                height: 30,
+                height: 29,
               ),
             ),
           ),
