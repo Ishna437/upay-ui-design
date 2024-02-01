@@ -134,7 +134,7 @@ class _MyHomePageState extends State<MyHomePage> {
               children: [
                 const SizedBox(width: 10),
                 const Text(
-                  'Good Morning!',
+                  'Good Morning!!',
                   style: TextStyle(color: Colors.white, fontSize: 16),
                 ),
                 const SizedBox(
