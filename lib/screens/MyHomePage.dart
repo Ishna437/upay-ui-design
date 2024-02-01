@@ -89,7 +89,7 @@ class _MyHomePageState extends State<MyHomePage> {
     final screenWidth = MediaQuery.of(context).size.width;
 
     return Scaffold(
-      backgroundColor: Colors.black,
+      backgroundColor: const Color.fromARGB(255, 20, 19, 19),
       appBar: AppBar(
         leading: const Icon(
           Icons.menu,
